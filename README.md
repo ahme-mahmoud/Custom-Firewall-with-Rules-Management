@@ -1,6 +1,7 @@
-# Custom Firewall Project
+### Custom Firewall Project
 
-**Description:**  
+**Description:** 
+---
 A Linux Bash-based firewall management system that allows users to **add, delete, and manage firewall rules**, monitor network traffic, log events, and view traffic statistics. The system uses an interactive CLI and SQLite for logging.  
 
 ---
