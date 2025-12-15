@@ -4,8 +4,8 @@
 A Linux Bash-based firewall management system that allows users to **add, delete, and manage firewall rules**, monitor network traffic, log events, and view traffic statistics. The system uses an interactive CLI and SQLite for logging.  
 
 ---
-
 ## **Project Structure**
+```
 custom_firewall_project/
 ├── add_rule.sh # Add firewall rules
 ├── delete_rule.sh # Delete firewall rules
@@ -15,7 +15,7 @@ custom_firewall_project/
 ├── firewall.db # SQLite database
 ├── logs/
 │ └── firewall.log # Traffic log file
-
+```
 ---
 
 ## **Features**
