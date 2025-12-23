@@ -1,0 +1,32 @@
+[
+  {
+    "action": "allow",
+    "ip": "",
+    "port": "53",
+    "protocol": "udp"
+  },
+  {
+    "action": "allow",
+    "ip": "8.8.8.8",
+    "port": "80",
+    "protocol": "all"
+  },
+  {
+    "action": "allow",
+    "ip": "192.168.1.1",
+    "port": "55",
+    "protocol": "tcp"
+  },
+  {
+    "action": "allow",
+    "ip": "192.168.0.1",
+    "port": "",
+    "protocol": "all"
+  },
+  {
+    "action": "allow",
+    "ip": "8.8.8.5",
+    "port": "",
+    "protocol": "all"
+  }
+]
